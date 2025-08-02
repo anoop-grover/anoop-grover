@@ -6,10 +6,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=120&lines=Turning+Coffee+Into+Code+...;Learning+Every+Single+Day+...;Building+The+Future+...;Join+My+Journey!+❤️" alt="Typing SVG" />
 </p>
-<!-- <p align="center">
+<p align="center">
   🚀 Dreaming in Code | Building Realities in Web <br>
   🎯 On a Mission: FAANG SDE | 25 LPA+ by 2027
-</p> -->
+</p>
 
 
 ---
@@ -23,24 +23,55 @@
 ---
 
 ### 🔧 Tech Toolbox:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+#### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ### ⚡ Quick Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoop-grover&show_icons=true&theme=tokyonight&hide=issues)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-grover&layout=compact&theme=tokyonight)
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anoop-grover&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anoop-grover&show_icons=true&theme=tokyonight&hide=issues" /><br>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-grover&layout=compact&theme=tokyonight" /><br>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anoop-grover&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoop-grover&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=anoop-grover&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
