@@ -70,20 +70,13 @@
 
 ---
 
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=anoop-grover&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📫 Let's Connect:
 <a href="www.linkedin.com/in/anoopgroverrr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/anoopgroverrr"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="mailto:iamgroveranoop.1979@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://personal-portfolio-website-nine-pearl.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white"/></a>
+<a href="https://anoop-grover.github.io/anoop-ai-portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white"/></a>
 
 ---
 
 ### 🧠 Fun Fact:
 > “I don’t just write code. I debug life one semicolon at a time. 😉”
-
-
